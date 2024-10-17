@@ -1,0 +1,6 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+pydicom==2.4.1
+minio==7.1.16
+python-dotenv==1.0.0
+pydantic==1.10.7
